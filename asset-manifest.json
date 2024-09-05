@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/starmap.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/starmap.github.io/static/js/main.c790bd36.js",
+    "static/js/453.5b436bb4.chunk.js": "/starmap.github.io/static/js/453.5b436bb4.chunk.js",
+    "index.html": "/starmap.github.io/index.html",
+    "main.f855e6bc.css.map": "/starmap.github.io/static/css/main.f855e6bc.css.map",
+    "main.c790bd36.js.map": "/starmap.github.io/static/js/main.c790bd36.js.map",
+    "453.5b436bb4.chunk.js.map": "/starmap.github.io/static/js/453.5b436bb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c790bd36.js"
+  ]
+}
