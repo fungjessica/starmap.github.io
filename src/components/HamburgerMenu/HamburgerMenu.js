@@ -8,7 +8,7 @@ const HamburgerMenu = () => {
    return (
       <>
          <div className="hamburgermenu-container">
-            <div className={isOpen ? "menu-active" : "menu"}>
+            <div className={isOpen ? "menu-active" : "menu-hidden"}>
                {/*REPLACE -- Add function capabilities here once available*/}
                <p className="item">Awesome option #1</p>
                <p className="item">Awesome option #2</p>
